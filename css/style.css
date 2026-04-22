@@ -1090,7 +1090,7 @@
                                     top: 370px
                                 }
                                 .o .flex {
-                                    transform: scale(.5) translateX(-190px);
+                                    transform: scale(.5) translateX(-190px)!important;
                                     position: absolute;
                                     background-color: transparent;
                                 }
