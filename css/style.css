@@ -1123,5 +1123,8 @@
                                 }  
                                 .subscribe {
                                     overflow-x: hidden;
+                                }    
+                                .Portfolio .grid2 div:hover .des {
+                                    height: 60px;
                                 }
                             }
