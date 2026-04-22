@@ -1090,7 +1090,7 @@
                                     top: 370px
                                 }
                                 .o .flex {
-                                    transform: scale(.6) translateX(-190px);
+                                    transform: scale(.5) translateX(-190px);
                                     position: absolute;
                                     background-color: transparent;
                                 }
@@ -1120,7 +1120,7 @@
                                 .info * {
                                     display: block;
                                     width: 200px;
-                                }  .flex,
+                                }  
                                 .subscribe {
                                     overflow-x: hidden;
                                 }
