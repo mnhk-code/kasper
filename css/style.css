@@ -1126,5 +1126,8 @@
                                 }    
                                 .Portfolio .grid2 div:hover .des {
                                     height: 60px;
+                                }       .Portfolio .grid2 .des {
+                                    font-size: small!important;
                                 }
+                               
                             }
