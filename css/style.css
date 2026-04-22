@@ -1130,4 +1130,39 @@
                                     font-size: small!important;
                                 }
                                
+                            }  @media(max-width:992px) {
+                                .services .grid {
+                                    display: flex;
+                                    flex-direction: column;
+                                    margin-left: 12px;
+                                }
+                                .Portfolio .grid2 .des {
+                                    font-size: medium!important;
+                                }
+                                .Portfolio .grid2 div:hover .des {
+                                    height: 60px;
+                                }
+                                .services .grid>div {
+                                    display: flex;
+                                    gap: 20px;
+                                }
+                                .services {
+                                    margin-bottom: 300px;
+                                }
+                                .o img:first-child {
+                                    width: 600px;
+                                    left: -10px;
+                                    top: 370px
+                                }
+                                .o .flex {
+                                    transform: scale(.91);
+                                    position: absolute;
+                                    background-color: transparent;
+                                }
+                                .about {
+                                    margin-bottom: 400px;
+                                }
+                                blockquote {
+                                    font-size: 30px;
+                                }
                             }
