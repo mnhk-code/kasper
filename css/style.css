@@ -1120,5 +1120,8 @@
                                 .info * {
                                     display: block;
                                     width: 200px;
+                                }  .flex,
+                                .subscribe {
+                                    overflow-x: hidden;
                                 }
                             }
